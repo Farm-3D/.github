@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- shields.io comes back through GitHub's proxy as a PNG, which is why it
-     renders where a hand-written SVG does not. Colours are the site's:
-     #404436 --navy, #6F7D3F --accent, #869653 --accent2. -->
-
-# Farm-3D
-
-### L'impression 3D grand format, déployée là où on en a besoin
+<!-- The coloured band is built from shields.io badges: a hand-written SVG
+     will not render here (GitHub's image proxy refuses it) and each badge
+     caps out near 255px, so a strip of them is the widest band available. -->
 
 ![](https://img.shields.io/badge/Fabrication_additive-404436?style=for-the-badge&labelColor=404436)
 ![](https://img.shields.io/badge/Grand_format-6F7D3F?style=for-the-badge&labelColor=6F7D3F)
 ![](https://img.shields.io/badge/Déployé_sur_site-869653?style=for-the-badge&labelColor=869653)
+
+# Farm-3D
+
+### L'impression 3D grand format, déployée là où on en a besoin
 
 <br>
 
