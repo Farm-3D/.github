@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" fill="none" role="img" aria-label="Farm-3D — L'impression 3D grand format, déployée là où on en a besoin">
+  <defs>
+    <clipPath id="frame"><rect width="900" height="190" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="190" fill="#7e8069"/>
+
+    <g stroke="#404436" stroke-width="1" opacity="0.20">
+      <path d="M0 160h900"/><path d="M0 151h900"/><path d="M0 142h900"/>
+      <path d="M0 133h900"/><path d="M0 124h900"/><path d="M0 115h900"/>
+      <path d="M0 106h900"/>
+    </g>
+
+    <path d="M0 168h900" stroke="#404436" stroke-width="1.5" opacity="0.4"/>
+
+    <text x="56" y="80" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#f2f1e4">Farm-3D</text>
+
+    <text x="58" y="112" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#e2ddcd" letter-spacing="0.2">L'impression 3D grand format, déployée là où on en a besoin.</text>
+
+    <rect x="58" y="132" width="26" height="2" fill="#e8e9dc" opacity="0.9"/>
+
+    <g stroke="#e8e9dc" stroke-width="1.5" opacity="0.5" fill="none">
+      <path d="M742 34h124v100"/>
+      <path d="M866 156v-14"/>
+    </g>
+
+    <rect x="0.5" y="0.5" width="899" height="189" rx="10" stroke="#6a6c5c" stroke-opacity="0.6"/>
+  </g>
+</svg>
