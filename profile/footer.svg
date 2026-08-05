@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="128" viewBox="0 0 840 128" fill="none" role="img" aria-label="DMEOS et ATMN, les deux systèmes de Farm-3D">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="840" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#404436"/>
+      <stop offset="1" stop-color="#4d5142"/>
+    </linearGradient>
+    <clipPath id="fframe"><rect width="840" height="128" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#fframe)">
+    <rect width="840" height="128" fill="url(#fbg)"/>
+
+    <path d="M0 6h840" stroke="#869653" stroke-width="2" opacity="0.7"/>
+
+    <!-- Two marks, two roles: DMEOS runs the production, ATMN houses it. -->
+    <g>
+      <text x="56" y="48" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#f2f1e4">DMEOS<tspan font-size="11" baseline-shift="super" fill="#a8b878">®</tspan></text>
+      <text x="56" y="70" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#b6b7a4">Le système d'exécution de la production</text>
+      <text x="56" y="88" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8d8f7c">Supervision · Traçabilité · Souveraineté de la donnée</text>
+    </g>
+
+    <path d="M448 34v60" stroke="#6a6c5c" stroke-opacity="0.55"/>
+
+    <g>
+      <text x="490" y="48" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#f2f1e4">ATMN<tspan font-size="11" baseline-shift="super" fill="#a8b878">™</tspan></text>
+      <text x="490" y="70" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#b6b7a4">L'Atelier Mobile Numérique 4.0</text>
+      <text x="490" y="88" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#8d8f7c">Conteneur ISO · 10 à 40 pieds · ISO/ASTM 52920</text>
+    </g>
+
+    <rect x="0.5" y="0.5" width="839" height="127" rx="10" stroke="#6a6c5c" stroke-opacity="0.5"/>
+  </g>
+</svg>
