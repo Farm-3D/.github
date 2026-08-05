@@ -4,22 +4,27 @@
   </defs>
 
   <g clip-path="url(#frame)">
-    <rect width="900" height="190" fill="#404436"/>
+    <rect width="900" height="190" fill="#b0b09a"/>
 
-    <g stroke="#6f7d3f" stroke-width="1" opacity="0.22">
-      <path d="M0 158h900"/><path d="M0 150h900"/><path d="M0 142h900"/>
-      <path d="M0 134h900"/><path d="M0 126h900"/><path d="M0 118h900"/>
-      <path d="M0 110h900"/><path d="M0 102h900"/>
+    <g stroke="#404436" stroke-width="1" opacity="0.14">
+      <path d="M0 160h900"/><path d="M0 151h900"/><path d="M0 142h900"/>
+      <path d="M0 133h900"/><path d="M0 124h900"/><path d="M0 115h900"/>
+      <path d="M0 106h900"/>
     </g>
 
-    <path d="M0 166h900" stroke="#869653" stroke-width="1.5" opacity="0.5"/>
+    <path d="M0 168h900" stroke="#404436" stroke-width="1.5" opacity="0.3"/>
 
-    <text x="56" y="80" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="600" letter-spacing="-1" fill="#f2f1e4">Farm-3D</text>
+    <text x="56" y="80" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="-1" fill="#3a3d31">Farm-3D</text>
 
-    <text x="58" y="112" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#d2d1bd" letter-spacing="0.2">L'impression 3D grand format, déployée là où on en a besoin.</text>
+    <text x="58" y="112" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15.5" fill="#4e5142" letter-spacing="0.2">L'impression 3D grand format, déployée là où on en a besoin.</text>
 
-    <rect x="58" y="132" width="26" height="2" fill="#869653" opacity="0.85"/>
+    <rect x="58" y="132" width="26" height="2" fill="#3a3d31" opacity="0.8"/>
 
-    <rect x="0.5" y="0.5" width="899" height="189" rx="10" stroke="#6a6c5c" stroke-opacity="0.5"/>
+    <g stroke="#e8e9dc" stroke-width="1.5" opacity="0.85" fill="none">
+      <path d="M742 34h124v100"/>
+      <path d="M866 156v-14"/>
+    </g>
+
+    <rect x="0.5" y="0.5" width="899" height="189" rx="10" stroke="#8b8c76" stroke-opacity="0.7"/>
   </g>
 </svg>
