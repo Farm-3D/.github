@@ -4,13 +4,8 @@
   </defs>
 
   <g clip-path="url(#frame)">
-    <!-- Flat --navy, not a gradient: the badges below are flat #404436, and a
-         fade to #5b604e made the two read as different greens. -->
     <rect width="900" height="190" fill="#404436"/>
 
-    <!-- Additive manufacturing reads as stacked layers: the deposition lines
-         build upward, which is exactly what the product does. --accent
-         #6f7d3f, the same green the badges use. -->
     <g stroke="#6f7d3f" stroke-width="1" opacity="0.22">
       <path d="M0 158h900"/><path d="M0 150h900"/><path d="M0 142h900"/>
       <path d="M0 134h900"/><path d="M0 126h900"/><path d="M0 118h900"/>
