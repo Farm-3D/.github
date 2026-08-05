@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- The coloured band is built from shields.io badges: a hand-written SVG
-     will not render here (GitHub's image proxy refuses it) and each badge
-     caps out near 255px, so a strip of them is the widest band available. -->
+<!-- This banner rendered correctly in #2; the rewrite that broke it asked for
+     Inter, a webfont GitHub's sandbox will not fetch. Kept on system families
+     only — 'Segoe UI', Helvetica, Arial, sans-serif — so nothing is loaded. -->
+
+<img src="header.svg" alt="Farm-3D — L'impression 3D grand format, déployée là où on en a besoin" width="900">
 
 ![](https://img.shields.io/badge/Fabrication_additive-404436?style=for-the-badge&labelColor=404436)
 ![](https://img.shields.io/badge/Grand_format-6F7D3F?style=for-the-badge&labelColor=6F7D3F)
 ![](https://img.shields.io/badge/Déployé_sur_site-869653?style=for-the-badge&labelColor=869653)
-
-# Farm-3D
-
-### L'impression 3D grand format, déployée là où on en a besoin
 
 <br>
 
