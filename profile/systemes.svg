@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="182" viewBox="0 0 900 182" fill="none" role="img">
+  <title>DMEOS® — le système d'exécution de la production. ATMN™ — l'Atelier Mobile Numérique 4.0.</title>
+
+  <defs>
+    <clipPath id="s"><rect width="900" height="182" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#s)">
+    <!-- --bg #f2f1e4 with --white #fbfaf2 cards, as the site lays out its
+         surfaces. sans-serif only: the SVG sandbox forbids external fonts. -->
+    <rect width="900" height="182" fill="#f2f1e4"/>
+
+    <text x="30" y="34" font-family="sans-serif" font-size="11" font-weight="bold" letter-spacing="2.2" fill="#6f7d3f">NOS SYSTÈMES</text>
+
+    <g>
+      <rect x="30" y="50" width="410" height="108" rx="8" fill="#fbfaf2" stroke="#e2ddcd"/>
+      <rect x="30" y="50" width="4" height="108" rx="2" fill="#6f7d3f"/>
+      <text x="54" y="82" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b2c24">DMEOS<tspan font-size="10" baseline-shift="super" fill="#6f7d3f">®</tspan></text>
+      <text x="54" y="105" font-family="sans-serif" font-size="13" font-weight="bold" fill="#41443a">Le système d'exécution de la production</text>
+      <text font-family="sans-serif" font-size="11.5" fill="#6f705f">
+        <tspan x="54" y="126">Supervision multi-machines, traçabilité opérateur-</tspan>
+        <tspan x="54" y="143">machine-matière-fichier, comptes rendus opposables.</tspan>
+      </text>
+    </g>
+
+    <g>
+      <rect x="460" y="50" width="410" height="108" rx="8" fill="#fbfaf2" stroke="#e2ddcd"/>
+      <rect x="460" y="50" width="4" height="108" rx="2" fill="#6f7d3f"/>
+      <text x="484" y="82" font-family="sans-serif" font-size="19" font-weight="bold" fill="#2b2c24">ATMN<tspan font-size="10" baseline-shift="super" fill="#6f7d3f">™</tspan></text>
+      <text x="484" y="105" font-family="sans-serif" font-size="13" font-weight="bold" fill="#41443a">L'Atelier Mobile Numérique 4.0</text>
+      <text font-family="sans-serif" font-size="11.5" fill="#6f705f">
+        <tspan x="484" y="126">Une capacité industrielle complète dans l'empreinte</tspan>
+        <tspan x="484" y="143">d'un conteneur ISO — ISO/ASTM 52920.</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
