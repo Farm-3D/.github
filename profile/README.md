@@ -6,6 +6,9 @@
 
 <img src="header.svg" alt="Farm-3D — L'impression 3D grand format, déployée là où on en a besoin" width="900">
 
+<br>
+<br>
+
 ![](https://img.shields.io/badge/Fabrication_additive-404436?style=for-the-badge&labelColor=404436)
 ![](https://img.shields.io/badge/Grand_format-6F7D3F?style=for-the-badge&labelColor=6F7D3F)
 ![](https://img.shields.io/badge/Déployé_sur_site-869653?style=for-the-badge&labelColor=869653)
