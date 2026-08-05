@@ -4,7 +4,7 @@
      Inter, a webfont GitHub's sandbox will not fetch. Kept on system families
      only — 'Segoe UI', Helvetica, Arial, sans-serif — so nothing is loaded. -->
 
-<img src="header.svg" alt="Farm-3D — L'impression 3D grand format, déployée là où on en a besoin" width="900">
+<img src="bandeau.svg" alt="Farm-3D — L'impression 3D grand format, déployée là où on en a besoin" width="900">
 
 <br>
 <br>
