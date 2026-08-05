@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="banner.webp" alt="Un Atelier Mobile Numérique 4.0 en fonctionnement sur un chantier enneigé" width="900">
+<!-- shields.io comes back through GitHub's proxy as a PNG, which is why it
+     renders where a hand-written SVG does not. Colours are the site's:
+     #404436 --navy, #6F7D3F --accent, #869653 --accent2. -->
 
-</div>
-
-<div align="center">
+[![Farm-3D](https://img.shields.io/badge/FARM--3D-404436?style=for-the-badge&labelColor=404436)](https://www.farm-3d.com)
 
 # Farm-3D
 
@@ -23,6 +23,16 @@ unités mobiles autonomes, installées sur site, qui produisent au plus près du
 besoin plutôt qu'à l'autre bout d'une chaîne logistique.
 
 Nos machines travaillent en atelier comme en extérieur, par tous les temps.
+
+<br>
+
+<div align="center">
+
+<img src="banner.webp" alt="Un Atelier Mobile Numérique 4.0 en fonctionnement sur un chantier enneigé" width="620">
+
+<sub>Atelier Mobile Numérique 4.0 — en fonctionnement sur chantier</sub>
+
+</div>
 
 <br>
 
