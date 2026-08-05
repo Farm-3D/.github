@@ -1,23 +1,8 @@
 <div align="center">
 
-<img src="banner.webp" alt="Atelier mobile numérique 4.0 — Farm-3D" width="820">
-
-<br>
-<br>
-
-**Farm-3D**
-
-L'impression 3D grand format, déployée là où on en a besoin.
-
-<br>
-
-[farm-3d.com](https://www.farm-3d.com)
+<img src="header.svg" alt="Farm-3D — L'impression 3D grand format, déployée là où on en a besoin" width="840">
 
 </div>
-
-<br>
-
----
 
 <br>
 
@@ -30,9 +15,14 @@ Nos machines travaillent en atelier comme en extérieur, par tous les temps.
 <br>
 
 <div align="center">
-<sub>
 
-Pour toute demande — [farm-3d.com](https://www.farm-3d.com)
+<img src="banner.webp" alt="Atelier mobile numérique 4.0, en fonctionnement sur chantier" width="560">
 
-</sub>
+<sub>Atelier mobile numérique 4.0 — en fonctionnement sur chantier</sub>
+
+<br>
+<br>
+
+**[farm-3d.com](https://www.farm-3d.com)**
+
 </div>
