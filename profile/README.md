@@ -23,17 +23,9 @@ Nos machines travaillent en atelier comme en extérieur, par tous les temps.
 </div>
 
 <br>
-<br>
 
 <div align="center">
 
-<img src="footer.svg" alt="DMEOS® — le système d'exécution de la production. ATMN™ — l'Atelier Mobile Numérique 4.0" width="840">
-
-<br>
-<br>
-
-**[farm-3d.com](https://www.farm-3d.com)**
-
-<sub>DMEOS® et ATMN™ sont des marques de Farm-3D.</sub>
+<a href="https://www.farm-3d.com"><img src="footer.svg" alt="DMEOS® — le système d'exécution de la production. ATMN™ — l'Atelier Mobile Numérique 4.0. farm-3d.com" width="840"></a>
 
 </div>
